@@ -1,8 +1,8 @@
 # Lars Hagen
 
-DevOps and Platform Engineer in Copenhagen, building reliable cloud infrastructure, container platforms, CI/CD systems, security automation, and open-source developer tooling.
+DevOps and Platform Engineer in Copenhagen, shaping secure multi-cloud landing zones, container platforms, CI/CD systems, and internal developer platforms.
 
-My work spans Azure, AWS, Kubernetes, Docker, Terraform, Ansible, Linux, observability, identity-aware access, incident investigation, and platform engineering. I focus on making infrastructure easier to operate, safer to change, and harder to misuse.
+My work spans Azure, AWS, GCP, Hetzner, Kubernetes, Docker, Terraform, Bicep, Ansible, Linux, observability, identity-aware access, and incident investigation. I design platform guardrails and deployment workflows that make infrastructure easier to operate, safer to change, and harder to misuse.
 
 ## Selected projects
 
