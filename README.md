@@ -7,7 +7,6 @@ My work spans Azure, AWS, GCP, Hetzner, Kubernetes, Docker, Terraform, Bicep, An
 ## Selected projects
 
 - [Rootless FUSE](https://github.com/lars-hagen/rootless-fuse): FUSE compatibility for authorized unprivileged containers, with direct namespace and isolated User Mode Linux fallback paths.
-- [Nookwire SSH](https://github.com/lars-hagen/nookwire-ssh): temporary authenticated SSHv2, SFTP, and SCP access to authorized ephemeral workspaces.
 - [MCP Playwright CDP](https://github.com/lars-hagen/mcp-playwright-cdp): an early public MCP implementation for automating existing authenticated Chrome sessions through Playwright and the Chrome DevTools Protocol.
 - [Slack User MCP](https://github.com/lars-hagen/slack-user-mcp): an early MCP implementation for AI-assisted Slack workflow automation.
 
